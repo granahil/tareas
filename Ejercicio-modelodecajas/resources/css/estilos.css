@@ -1,0 +1,148 @@
+.top-section {
+    background-color: black;
+    padding: 5px 50px 5px 50px;
+    color: #ffff
+}
+
+.title-1 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 0px 15px 0px;
+}
+
+.title-2 {
+    font-size: 30px;
+    line-height: 49px;
+    margin: 0px 0px 15px 0px;
+
+}
+
+.title-3 {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px 250px 0px;
+
+}
+
+.point {
+    color: green;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.text-1 {
+    margin: 0px 0px 100px 0px;
+}
+.text-2 {
+    margin: 0px 0px 0px 600px;
+}
+
+.middle section {
+background-color: #ffff;
+color:black 0px 0px 100px 0px;
+margin: 250px 0px 00px 0px;
+
+}
+
+.middle-1 {
+    margin: 300px 0px 30px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.middle-2 {
+    margin: 10px 0px 0px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.number-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 100px;
+}
+
+.number-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 20px;
+}
+.number-3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 20px;
+}
+
+.number-4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 20px;
+}
+
+.number-5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 20px;
+}
+
+.number-6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 20px;
+}
+
+.paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    margin: 150px 10px 30px 30px;
+}
+
+.number-7 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 20px;
+}
+
+.number-8 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 20px;
+}
+
+.number-9 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 20px;
+}
+
+.number-10 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 20px;
+}
+
+.number-11 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 20px;
+}
+
+.number-12 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px 0px 0px;
+
+}
+
+.text-footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    color: orangered;
+}
+
+.text-footer2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}

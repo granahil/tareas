@@ -1,0 +1,13 @@
+#titulo {
+    color: brown;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+/* Selector aninado */
+.contenedor-imagen img {
+    width: 400px;
+    height: 230px;
+}
