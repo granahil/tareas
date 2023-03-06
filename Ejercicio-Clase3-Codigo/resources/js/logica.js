@@ -27,3 +27,6 @@ var user = {
     lastname: 'Santamaría'
 
 }
+
+//JSON 
+

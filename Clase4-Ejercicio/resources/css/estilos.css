@@ -73,3 +73,7 @@
 .action-container button:hover {
     border: 1px solid rgb(101, 108, 111);
 }
+
+.bg-changed {
+    background-color: rgb(156, 136, 255) !important;
+}

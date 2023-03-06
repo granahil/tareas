@@ -1,0 +1,25 @@
+.container {
+    background-color: blueviolet;
+    height: 700PX;
+}
+
+.item {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 200px 200px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.item-number {
+    margin: 20px 20px 20px 20px;
+}
+
+.text-big {
+    font-size: 40px;
+}
+
+.text-small {
+    font-size: 10px;
+}
