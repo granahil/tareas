@@ -15,9 +15,8 @@
 }
 
 .item-number {
-    margin: 10px 80px;
+    margin: 100px 100px;
     text-align: center;
-    padding: 80px 80px;
 
 }
 
@@ -28,4 +27,5 @@
 
 .text-small {
     font-size: 30px;
+    margin: 30px 60px;
 }
