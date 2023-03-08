@@ -1,25 +1,31 @@
 .container {
-    background-color: blueviolet;
-    height: 700PX;
+    background-image:linear-gradient(90deg, #e63849, #eb4842, #ee5a3b);
+    height: 100%;
 }
 
 .item {
     color: rgb(255, 255, 255);
-    font-size: 20px;
-    padding: 200px 200px;
+    padding: 200px 0px;
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    text-align: center;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center
 }
 
 .item-number {
-    margin: 20px 20px 20px 20px;
+    margin: 10px 80px;
+    text-align: center;
+    padding: 80px 80px;
+
 }
 
 .text-big {
-    font-size: 40px;
+    font-size: 110px;
+    
 }
 
 .text-small {
-    font-size: 10px;
+    font-size: 30px;
 }
