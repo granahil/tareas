@@ -1,0 +1,117 @@
+.main-title {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 20px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    box-shadow: 0px 0px 8px 1px rgba(150,147,147,0.75);
+    -webkit-box-shadow: 0px 0px 8px 1px rgba(150,147,147,0.75);
+    -moz-box-shadow: 0px 0px 8px 1px rgba(150,147,147,0.75);
+    border-radius: 10px;
+    margin: 20px 20px;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-card-container {
+    padding: 5px 13px;
+}
+
+.image-top {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+}
+.img-container {
+    padding:  0px 0px 5px 0px;
+}
+
+.title-top {
+    margin: 0px 0px 0px 0px;
+}
+
+.title {
+    margin: 7px 0px 0px 0px;
+    padding-bottom: 10px;
+    font-size: 12px;
+    border-bottom: 1px solid rgb(227, 227, 227);
+    color: #69696f;
+}
+
+.prices {
+    margin: 7px 0px 6px 0px;
+}
+
+.price {
+    color: #bbbac3;
+}
+
+.price-1 {
+    color: #978cff;
+}
+
+.number {
+    color: #67676a;
+    font-size: 12px;
+    margin: 4px 0px 0px 0px;
+}
+
+.btn-container {
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    background: #ffffff;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 10px;
+    color: #000000;
+    transition: all 1s ease;
+    border: 1px solid rgb(126, 126, 126);
+    margin: 0px 5px 0px 0px;
+    cursor: pointer;
+}
+
+.btn i {
+    color: #a2a2ac;
+    font-size: 12px;
+}
+
+.btn-link {
+    padding: 10px 15px 10px 15px;
+    background: #ffffff;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 12px;
+    color:  #6f66eb;
+    transition: all 1s ease;
+    cursor: pointer;
+    border: 1px solid  #6f66eb;
+}
+
+.btn-link:hover {
+    padding: 10px 15px 10px 15px;
+    background: #6f66eb;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #ffffff;
+    transition: all 1s ease;
+    cursor: pointer;
+}
+
+.cart-icon {
+    margin-left: 12px;
+}
+
+
